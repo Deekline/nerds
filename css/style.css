@@ -204,7 +204,7 @@ ul {
 
 /* location */
 .ba-location {
-  background-image: url('../img/map.JPG');
+  background-image: url("../img/map.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
